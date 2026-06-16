@@ -29,7 +29,7 @@ The dashboard is structured into two main analytical sections:
 - Fully interactive **cross-filtering across all visualizations**
 
 📷 Example:
-![Dashboard Navigation](P6.png)
+![Dashboard Navigation](images/P6.png)
 
 ---
 
