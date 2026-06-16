@@ -1,5 +1,4 @@
-# 📊 Data Analytics Project | HR-Analytics-Dashboard-Tableau-Workforce-KPIs
-
+# 📊 Data Analytics Project | HR Analytics Dashboard (Tableau)
 ## 📌 Project Overview
 This project presents the development of an interactive **Human Resources Analytics Dashboard** built with **Tableau**, designed to support **data-driven decision-making** in workforce management.
 
