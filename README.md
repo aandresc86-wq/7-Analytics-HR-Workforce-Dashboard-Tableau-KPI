@@ -42,7 +42,7 @@ The dashboard is structured into two main analytical sections:
 - Includes **monthly trend analysis**
 
 📷 KPI View:
-![Overview KPIs](P1.png)
+![Overview KPIs](images/P1.png)
 
 ---
 
@@ -74,8 +74,8 @@ The dashboard is structured into two main analytical sections:
   - Interactive exploration
 
 📷 Filters Example:
-![Filters View 1](P2.png)
-![Filters View 2](P3.png)
+![Filters View 1](images/P2.png)
+![Filters View 2](images/P3.png)
 
 ---
 
@@ -86,7 +86,7 @@ The dashboard is structured into two main analytical sections:
 - Full visibility of individual records
 
 📷 Employee Table:
-![Employee Table](P4.png)
+![Employee Table](images/P4.png)
 
 ---
 
@@ -97,7 +97,7 @@ The dashboard is structured into two main analytical sections:
   - Deep-dive analysis
 
 📷 Filters:
-![Employee Filters](P5.png)
+![Employee Filters](images/P5.png)
 
 ---
 
