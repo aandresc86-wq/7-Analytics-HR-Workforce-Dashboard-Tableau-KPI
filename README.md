@@ -114,7 +114,7 @@ HR departments need structured insights into workforce data to monitor employee 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Tableau** (Data Visualization & Dashboard Development)
+- **Tableau** (Data Visualization & Dashboard Development.)
 - **Data Analytics & Business Intelligence**
 - **Human Resources Analytics (HR Analytics)**
 - **Workforce Analytics**
